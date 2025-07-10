@@ -1,5 +1,4 @@
-import ProgrammingLanguage from "../models/programmingLanguage.model.js";
-
+import ProgrammingLanguage from '../models/programmingLanguage.model.js';
 
 
 
